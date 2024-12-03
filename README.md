@@ -56,7 +56,8 @@ module exp7(J,K,c1k,q,qbar);
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-03 122429](https://github.com/user-attachments/assets/2523bf1b-d87e-4eca-994a-499ceef38b95)
+![Screenshot 2024-12-03 122429](https://github.com/user-attachments/assets/dbd3b152-89e9-4199-bf46-4b4fb21858bd)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
